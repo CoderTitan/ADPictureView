@@ -78,7 +78,7 @@ desc "Description of what the lane does"
 
 	# 9. 更新索引库
 	# pod repo push XXXX xxx.podspec
-	pod_push(path: "#{targetName}.podspec", repo: "TitanjunSpec", allow_warnings: true)
+	pod_push(path: "#{targetName}.podspec", allow_warnings: true)
 
 
 end
