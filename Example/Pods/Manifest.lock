@@ -1,0 +1,20 @@
+PODS:
+  - ADPictureView (0.1.0):
+    - ADPictureView/AdPicView (= 0.1.0)
+    - ADPictureView/MenueView (= 0.1.0)
+  - ADPictureView/AdPicView (0.1.0)
+  - ADPictureView/MenueView (0.1.0)
+
+DEPENDENCIES:
+  - ADPictureView (from `../`)
+
+EXTERNAL SOURCES:
+  ADPictureView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ADPictureView: 16a819799ea94462cd0fee169bae3630f02069e8
+
+PODFILE CHECKSUM: 2cc39e9a9de5ea583bbdf747e3cf4bb097edd548
+
+COCOAPODS: 1.5.3

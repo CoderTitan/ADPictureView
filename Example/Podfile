@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ADPictureView_Example' do
+  pod 'ADPictureView', :path => '../'
+
+  target 'ADPictureView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
